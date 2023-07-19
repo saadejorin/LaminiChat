@@ -1,0 +1,5 @@
+streamlit
+time  # This is a standard Python library, no need to list it in requirements.txt
+torch
+transformers
+langchain  # Assuming `llms` is a module in this package
